@@ -1,0 +1,205 @@
+img {
+
+    float: left;
+    width: 150px;
+    height: 190px;
+    margin-right: 4px;
+    
+}
+
+header {
+
+   font-size: 35px;
+   font-family: 'Acme', sans-serif;
+   background-color: cadetblue;
+   color:black;
+   text-align: left;
+   padding: 30px;
+   font-weight: bold;
+   width: 300px;
+
+}
+body {
+   
+    padding: 0px;
+    margin: 0px; 
+    background-color: #ffffff;
+    background-image: url(https://i0.wp.com/topbackgroundwallpaper.com/wp-content/uploads/2018/01/free-wallpaper-for-website-creete-background.jpg?resize=720%2C540&ssl=1);
+    height: 960px;
+   
+}
+
+h1 {
+    font-family: 'Acme', sans-serif;
+    color: black;
+    font-size: 30px;
+    font-weight: bold;
+    
+}
+
+.navigation-bar {
+
+    display: block;
+    float: right;
+    padding: 5px;
+    position: relative;
+    font-size: 20px;
+    bottom: 70px;
+    right: 20px;
+    font-family: 'Acme', sans-serif;
+
+}
+
+.content {
+    width: 800px;
+    margin: auto;
+    position: relative;
+    top: 150px;
+    
+}
+
+
+form {
+
+    font-weight: bold;
+    position: relative;
+    left: 20px;
+    font-family: 'Acme', sans-serif;
+    letter-spacing: 1.5px;
+    
+}
+
+
+.name, .email {
+    
+    height: 30px;
+    width:500px;
+    margin: 10px;
+    
+    
+}
+
+.message {
+
+    height: 150px;
+    width: 500px;
+    margin: 10px;
+}
+
+.submit {
+    background-color:  rgb(151, 76, 76);
+    color: black;
+    height: 50px;
+    width: 100px;
+    font-size: 20px;
+    font-family: 'Acme', sans-serif;
+}
+
+a {
+
+    display: inline-block;
+    color: black;
+    text-align: center;
+    padding: 14px 16px;
+    text-decoration: none;
+
+}
+
+a:hover {
+
+    background-color:grey;
+    font-size: 30px;
+
+}
+
+a:focus {
+    background-color: rgb(226, 197, 197);
+}
+
+#heart {
+
+    position: relative;
+    padding: 30px;
+    margin: 20px;
+    background-color: cadetblue;
+    width: 700px;
+    height: 510px;
+    bottom: 70px;
+    
+}
+
+#contact {
+
+    position: relative;
+    padding: 30px;
+    margin: 20px;
+    background-color:cadetblue;
+    width: 700px;
+    height: 510px; 
+    left: 24%;
+    top: 83px;
+    
+}
+
+article {
+
+    line-height: 34px;
+    font-size: 30px;
+    font-family: 'Just Another Hand', cursive;
+    letter-spacing: 1.5px;
+    
+    
+}
+
+
+.gallery {
+
+    margin: 5px;
+    float: left;
+    width: 180px;
+}
+
+#portfolio {
+    position: relative;
+    padding: 30px;
+    margin: 20px;
+    background-color:cadetblue;
+    width: 700px;
+    height: 510px; 
+    bottom: 70px;
+
+}
+
+.cap {
+
+font-family: 'Acme', sans-serif;
+font-weight: bold;
+padding: 10px;
+text-align: center;
+background-color: rgb(151, 76, 76);
+position: relative;
+bottom: 50px;
+letter-spacing: 1.5px;
+
+}
+
+.foot {
+
+    position: fixed;
+    background-color:  rgb(151, 76, 76);
+    width: 100%;
+    bottom: 0px;
+    text-align: center;
+    left: 0px;
+    padding:8px;
+    font-family: 'Acme', sans-serif;
+    font-size: 15px;
+
+}
+
+.top {
+
+    background-color: rgb(151, 76, 76);
+
+}
+
