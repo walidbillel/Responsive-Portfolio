@@ -192,6 +192,7 @@ article {
     #contact {
         width: 400px;
         height: 610px;
+      
     }
 
     .name, .email, .message {
@@ -260,12 +261,13 @@ article {
     #portfolio {
         width: 220px;
         height: 1600px;
+        position: relative;
     }
       
     #contact {
         width: 200px;
         height: 410px;
-        right:200px;
+       
     }
     
     .name, .email, .message {
@@ -294,7 +296,7 @@ article {
 
     article {
         line-height: 25px;
-        font-size: 20px;
+        font-size: 15px;
     }
 
     form {
